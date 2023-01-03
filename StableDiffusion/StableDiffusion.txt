@@ -1,1 +1,2 @@
 Stable Diffusion
+This folder includes stable diffusion examples, and the HF course on diffusers.
