@@ -1,0 +1,1 @@
+This folder contains the notebooks attached to the different chapters regarding the HF book on Natural Language Processing with Transformers.
